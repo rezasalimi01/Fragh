@@ -1,5 +1,5 @@
 {
-  "remarks": "Netherlands",
+  "remarks": "🇩🇪 Hetzner - 10",
   "log": {
     "access": "",
     "error": "",
@@ -52,11 +52,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "www.1000site.ir",
-            "port": 443,
+            "address": "www.asamserver.com",
+            "port": 8443,
             "users": [
               {
-                "id": "19fd836d-a64e-4246-9898-16f54892ef77",
+                "id": "962c4650-ca89-4af8-9e3b-c3f9510ba07a",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -68,11 +68,11 @@
         ]
       },
       "streamSettings": {
-        "network": "ws",
+        "network": "grpc",
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": false,
-          "serverName": "Nl1.v2vLESs.xyz",
+          "serverName": "10.eV02-02-q2Wx8rYZ0Vic3BfMD1sng7PJJn6lQk4P.TECh",
           "alpn": [
             "h2",
             "http/1.1"
@@ -80,11 +80,9 @@
           "fingerprint": "randomized",
           "show": false
         },
-        "wsSettings": {
-          "path": "/vless",
-          "headers": {
-            "Host": "Nl1.v2vLESs.xyz"
-          }
+        "grpcSettings": {
+          "multiMode": false,
+          "serviceName": "@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN"
         },
         "sockopt": {
           "dialerProxy": "fragment",
